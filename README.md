@@ -2,7 +2,7 @@
 
 ### Eu sou o Rodrigo
 
-Desenvolvedor Front-End e estudante do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pelo desenvolvimento Web com JS.
+Desenvolvedor Front-End e estudante do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pelo desenvolvimento Web e UI/UX.
 
 
 <h2 align="center"> Tecnologias que uso no dia a dia</h2>
